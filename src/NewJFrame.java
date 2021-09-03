@@ -314,7 +314,7 @@ public class NewJFrame extends javax.swing.JFrame {
             func(ar);
         }
     }//GEN-LAST:event_button8ActionPerformed
-
+//some change
     /**
      * @param args the command line arguments
      */
